@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-roboto-condensed: "Roboto Condensed";
+  --font-roboto: Roboto;
+
+  /* font sizes */
+  --font-size-3xs: 10px;
+
+  /* Colors */
+  --color-black: #000;
+  --system-backgrounds-sb-l-primary: #fff;
+  --label-colors-lc-l-secondary: rgba(60, 60, 67, 0.6);
+
+  /* Gaps */
+  --gap-xl: 20px;
+
+  /* Border radiuses */
+  --br-8xs: 5px;
+  --br-81xl: 100px;
+}
